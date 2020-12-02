@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jtk.UnitTest", "Jtk.UnitTest\Jtk.UnitTest.csproj", "{554EB2CF-2372-498B-A71D-83C75F16B528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jtk.UnitTest.Tests", "Jtk.UnitTest.Tests\Jtk.UnitTest.Tests.csproj", "{AD7B2680-EEF9-47B8-8B60-0C3F3CD8737B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554EB2CF-2372-498B-A71D-83C75F16B528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554EB2CF-2372-498B-A71D-83C75F16B528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554EB2CF-2372-498B-A71D-83C75F16B528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554EB2CF-2372-498B-A71D-83C75F16B528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7B2680-EEF9-47B8-8B60-0C3F3CD8737B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7B2680-EEF9-47B8-8B60-0C3F3CD8737B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7B2680-EEF9-47B8-8B60-0C3F3CD8737B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7B2680-EEF9-47B8-8B60-0C3F3CD8737B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05FBA5F2-0A48-4E84-B37E-6E38B5D4D7AD}
+	EndGlobalSection
+EndGlobal
